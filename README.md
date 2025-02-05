@@ -6,7 +6,8 @@ Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 - 🎓 IT student at UNEC
 - 💻 Frontend Developer Specializing in React, JavaScript, TailwindCSS, HTML5, CSS3, and Responsive Design
 - 📜 Working on various projects
-- 
+
+  
 ### 🛠️ Tech Stack
 
 #### **Frontend Development**
