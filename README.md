@@ -1,4 +1,6 @@
-# Hi there, I'm [Ayan Mammadova] 👋
+# Hi there, I'm [Ayan Mammadova] 👋  
+Check out my portfolio: [MDYayan Portfolio](https://mdyayan-portfolio.netlify.app/)
+
 
 ### 🚀 About Me
 - 🎓 IT student at UNEC
@@ -47,5 +49,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyanMammadova&theme=radical)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ayan-m%C9%99mm%C9%99dova-90193527b/])
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)]([https://mdyayan-portfolio.netlify.app/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-m%C9%99mm%C9%99dova-90193527b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://mdyayan-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-ayen.md%40div.edu.az-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ayan.md@div.edu.az)
