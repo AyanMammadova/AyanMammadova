@@ -28,7 +28,6 @@ Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=api&logoColor=white)
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-282C34?style=flat&logo=javascript&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-- Proficient in handling **GET, POST, DELETE** operations.
 
 #### **Deployment & Hosting**
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
