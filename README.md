@@ -37,8 +37,14 @@
 - 🏪 **[Groffer](https://grofferecommerce.netlify.app/)** – A new e-commerce project (still in development), focusing on user-friendly shopping.
 - 📰 **[Oxu Az](https://oxu-az-succes.vercel.app/)** – A content-rich website with an integrated admin panel for efficient management.
 
+
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyanMammadova&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanMammadova&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyanMammadova&theme=radical)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ayan-m%C9%99mm%C9%99dova-90193527b/])
