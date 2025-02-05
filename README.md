@@ -1,5 +1,5 @@
-# Hi there, I'm [Ayan Mammadova] 👋  
-Check out my portfolio: [Ayan Portfolio](https://mdyayan-portfolio.netlify.app/)
+# Hi there, I'm **Ayan Mammadova** 👋  
+Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 
 
 ### 🚀 About Me
@@ -14,6 +14,11 @@ Check out my portfolio: [Ayan Portfolio](https://mdyayan-portfolio.netlify.app/)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+#### **Design Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photopea](https://img.shields.io/badge/Photopea-5A2A2A?style=flat&logo=photopea&logoColor=white)
 
 #### **React & Frameworks**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
