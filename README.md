@@ -47,7 +47,6 @@ Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 
 ### 📊 GitHub Stats
 
-![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyanMammadova&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanMammadova&layout=compact&theme=radical)
 
