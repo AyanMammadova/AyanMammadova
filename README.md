@@ -27,12 +27,6 @@ Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 📌 My Projects
-- 🌐 **[Lunaria](https://mdvayanlunariaecommerce.netlify.app/)** – A stylish e-commerce platform for fashion, offering a seamless shopping experience.
-- 🛒 **[Neptun](https://neptunsecondtrylastchance.vercel.app/)** – A grocery shopping site developed in collaboration on GitHub.
-- 🏪 **[Groffer](https://grofferecommerce.netlify.app/)** – A new e-commerce project (still in development), focusing on user-friendly shopping.
-- 📰 **[Oxu Az](https://oxu-az-succes.vercel.app/)** – A content-rich website with an integrated admin panel for efficient management.
-
 
 ### 📊 GitHub Stats
 
