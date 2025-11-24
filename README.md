@@ -37,4 +37,4 @@ Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-m%C9%99mm%C9%99dova-90193527b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://mdyayan-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-ayan.md%40div.edu.az-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ayan.md@div.edu.az)
+[![Email](https://img.shields.io/badge/Email-ayan.md%40div.edu.az-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ayan.mammadova900@gmail.com)
