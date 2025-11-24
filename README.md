@@ -1,13 +1,11 @@
 # Hi there, I'm **Ayan Mammadova** 👋  
 Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 
-
 ### 🚀 About Me
-- 🎓 IT student at UNEC
-- 💻 Frontend Developer Specializing in React, JavaScript, TailwindCSS, HTML5, CSS3, and Responsive Design
-- 📜 Working on various projects
+- 🎓 IT student at UNEC  
+- 💻 Frontend Developer specializing in React, JavaScript, TailwindCSS, HTML5, CSS3, and responsive design  
+- 📜 Working on various projects and learning modern web technologies  
 
-  
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -27,14 +25,13 @@ Check out my portfolio: [Ayan Mammadova](https://mdyayan-portfolio.netlify.app/)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
 ### 📊 GitHub Stats
-
-
+![Ayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyanMammadova&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanMammadova&layout=compact&theme=radical)
+
 
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-m%C9%99mm%C9%99dova-90193527b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://mdyayan-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-ayan.md%40div.edu.az-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ayan.mammadova900@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ayan.mammadova900%40gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:ayan.mammadova900@gmail.com)
