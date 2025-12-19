@@ -1,17 +1,18 @@
 ## 👋 Hi, I’m **Ayan Mammadova**
-Frontend Developer | React
+Frontend & Mobile Developer | React | React Native
 
 🌐 https://mdyayan-portfolio.netlify.app  
 📧 ayan.mammadova900@gmail.com  
 
 ### 🚀 About Me
 - 🎓 IT student at UNEC  
-- 💻 Frontend Developer (React, Next.js, React Native)  
-- ⚡ Building responsive web applications  
+- 💻 Frontend & React Native Mobile Developer
+- ⏱️ **10+ months professional experience**  
+- ⚡ Building responsive web & mobile applications  
 
 ### 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,redux,tailwind,bootstrap,vite,git,github,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite,git,github,netlify,vercel" />
 </p>
 
 ### 📊 GitHub Stats
