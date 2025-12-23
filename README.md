@@ -20,6 +20,6 @@ Frontend & Mobile Developer | React | React Native
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanMammadova&layout=compact&theme=radical" />
 
 ### 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/ayan-m%C9%99mm%C9%99dova-90193527b/  
+- LinkedIn: https://www.linkedin.com/in/ayan-mammadova-90193527b/
 - Portfolio: https://mdyayan-portfolio.netlify.app  
 - Email: ayan.mammadova900@gmail.com  
