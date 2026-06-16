@@ -7,7 +7,7 @@ Frontend & Mobile Developer | React | React Native
 ### 🚀 About Me
 - 🎓 IT student at UNEC  
 - 💻 Frontend & React Native Mobile Developer
-- ⏱️ **10+ months professional experience**  
+- ⏱️ **1 year+ professional experience**  
 - ⚡ Building responsive web & mobile applications  
 
 ### 🛠️ Tech Stack
