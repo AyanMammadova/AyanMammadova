@@ -1,33 +1,29 @@
 ## 👋 Hi, I’m Ayan Mammadova
 
-Junior Data Analyst | Frontend & Mobile Development Background
+Junior Data Analyst | Excel · SQL · Power BI
 
-### 🌱 About Me
+### 🚀 About Me
 
-I’m transitioning into data analytics with a background in frontend and mobile development using React and React Native.
+I’m a Junior Data Analyst working with Excel, SQL, and Power BI to explore data and communicate insights.
 
-I’m currently developing my Excel and SQL skills, with a focus on working with data, writing queries, and answering practical business questions.
+I’m currently working on data analytics projects and developing my skills in data cleaning, analysis, and visualization. I’ll be sharing my projects here as they’re ready.
 
-My development experience has shaped how I approach problems: break them down, pay attention to details, and keep the end user in mind.
+My background in frontend and mobile development has strengthened my problem-solving skills and attention to detail.
 
-### 📚 Current Focus
+### 📊 Data Analytics
 
-- **Excel** — organizing, cleaning, and analyzing data
+- **Excel** — data cleaning, analysis, and reporting
 - **SQL / Oracle SQL** — querying and exploring relational databases
-- **Data analytics** — turning business questions into clear analysis
+- **Power BI** — data visualization and interactive dashboards
 
 ### 💻 Development Background
 
 React · React Native · JavaScript · TypeScript · HTML · CSS
 
-Experience building responsive web and mobile applications.
-
-### 📂 What You’ll Find Here
-
-My repositories currently reflect my frontend and mobile development work. As I progress in data analytics, I’ll use this space to share my learning and future projects.
+Previous experience building responsive web and mobile applications.
 
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ayan-mammadova-90193527b/)
-- [Web Development Portfolio](https://mdyayan-portfolio.netlify.app/)
+- [Development Portfolio](https://mdyayan-portfolio.netlify.app/)
 - [Email](mailto:ayan.mammadova900@gmail.com)
